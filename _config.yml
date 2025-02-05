@@ -13,9 +13,9 @@ locale                   : "en-US"
 title                    : "OneFlow Jekyll Theme"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "https://test123domain123.de" # the base hostname & protocol for your site
-baseurl                  : "dfg-sos-draft03" # the subpath of your site, e.g. "/blog"
-repository               : "lkschu/dfg-sos-draft03" # GitHub username/repo-name
+url                      : "https://lsinfo3.github.io" # the base hostname & protocol for your site
+baseurl                  : "/dfg-sos-draft03" # the subpath of your site, e.g. "/blog"
+repository               : "lsinfo3/dfg-sos-draft03" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.webp" # Site logo displayed in the masthead
 show-popup               : true # set to false if you don't need / want to show a cookie-banner / cdn-usage popup.
