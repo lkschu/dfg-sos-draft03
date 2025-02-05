@@ -1,3 +1,3 @@
 # Sample website 
 
-based on the [Jekyll bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme)
+based on the [Jekyll OneFlow theme](https://github.com/perstarke-webdev/oneflow-jekyll-theme)
